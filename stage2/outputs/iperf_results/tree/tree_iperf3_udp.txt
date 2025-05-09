@@ -1,0 +1,19 @@
+Connecting to host 10.0.0.4, port 5001
+[  4] local 10.0.0.1 port 45448 connected to 10.0.0.4 port 5001
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-1.00   sec  10.8 MBytes  90.4 Mbits/sec  1384  
+[  4]   1.00-2.00   sec  11.9 MBytes  99.6 Mbits/sec  1520  
+[  4]   2.00-3.00   sec  11.9 MBytes   100 Mbits/sec  1527  
+[  4]   3.00-4.00   sec  11.9 MBytes  99.9 Mbits/sec  1526  
+[  4]   4.00-5.00   sec  11.9 MBytes   100 Mbits/sec  1526  
+[  4]   5.00-6.00   sec  11.9 MBytes  99.9 Mbits/sec  1526  
+[  4]   6.00-7.00   sec  11.9 MBytes  99.9 Mbits/sec  1524  
+[  4]   7.00-8.00   sec  12.0 MBytes   101 Mbits/sec  1537  
+[  4]   8.00-9.01   sec  11.8 MBytes  98.7 Mbits/sec  1516  
+[  4]   9.01-10.00  sec  12.0 MBytes   101 Mbits/sec  1539  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-10.00  sec   118 MBytes  99.1 Mbits/sec  1.196 ms  5/18 (28%)  
+[  4] Sent 18 datagrams
+
+iperf Done.

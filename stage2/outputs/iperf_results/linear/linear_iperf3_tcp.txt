@@ -1,0 +1,19 @@
+Connecting to host 10.0.0.4, port 5001
+[  4] local 10.0.0.1 port 35376 connected to 10.0.0.4 port 5001
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-1.00   sec  2.82 GBytes  24.2 Gbits/sec  1894   1.02 MBytes       
+[  4]   1.00-2.00   sec  2.49 GBytes  21.4 Gbits/sec    1   1.27 MBytes       
+[  4]   2.00-3.00   sec  2.43 GBytes  20.9 Gbits/sec    0   1.36 MBytes       
+[  4]   3.00-4.00   sec  2.51 GBytes  21.6 Gbits/sec    0   1.41 MBytes       
+[  4]   4.00-5.00   sec  2.46 GBytes  21.1 Gbits/sec    0   1.45 MBytes       
+[  4]   5.00-6.00   sec  2.45 GBytes  21.1 Gbits/sec    2   1.47 MBytes       
+[  4]   6.00-7.00   sec  2.51 GBytes  21.6 Gbits/sec    1   1.50 MBytes       
+[  4]   7.00-8.00   sec  2.50 GBytes  21.4 Gbits/sec    1   1.50 MBytes       
+[  4]   8.00-9.00   sec  2.49 GBytes  21.4 Gbits/sec    0   1.53 MBytes       
+[  4]   9.00-10.00  sec  2.50 GBytes  21.5 Gbits/sec    0   1.53 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-10.00  sec  25.2 GBytes  21.6 Gbits/sec  1899             sender
+[  4]   0.00-10.00  sec  25.2 GBytes  21.6 Gbits/sec                  receiver
+
+iperf Done.
